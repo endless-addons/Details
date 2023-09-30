@@ -4,6 +4,9 @@
 ## SavedVariables: _detalhes_global
 ## SavedVariablesPerCharacter: _detalhes_database
 ## OptionalDeps: Ace3, LibSharedMedia-3.0, LibWindow-1.1, LibDBIcon-1.0, NickTag-1.0, LibDataBroker-1.1, LibItemUpgradeInfo-1.0, LibGroupInSpecT-1.1, LibCompress, LibGraph-2.0
+## X-Endless-Hosted: true
+## X-Endless-Version: 1.0
+## X-Endless-Links: Details_3DModelsPaths, Details_ChartViewer, Details_DataStorage, Details_DeathGraphs, Details_EncounterDetails, Details_SunderCount, Details_TimeLine, Details_TinyThreat
 
 compat.lua
 compat.xml

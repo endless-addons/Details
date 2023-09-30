@@ -4,6 +4,8 @@
 ## DefaultState: Disabled
 ## RequiredDeps: Details
 ## OptionalDeps: Ace3
+## X-Endless-Hosted: true
+## X-Endless-Version: 1.0
 
 #@no-lib-strip@
 embeds.xml

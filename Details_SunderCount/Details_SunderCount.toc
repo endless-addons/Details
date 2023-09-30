@@ -3,5 +3,7 @@
 ## Notes: Shows who uses Sunder Armor.
 ## DefaultState: Disabled
 ## RequiredDeps: Details
+## X-Endless-Hosted: true
+## X-Endless-Version: 1.0
 
 Details_SunderCount.lua

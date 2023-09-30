@@ -4,6 +4,8 @@
 ## RequiredDeps: Details
 ## OptionalDeps: Ace3
 ## SavedVariablesPerCharacter: DeathGraphsDBDeaths, DeathGraphsDBEndurance, DeathGraphsDBCurrent, DeathGraphsDBGraph
+## X-Endless-Hosted: true
+## X-Endless-Version: 1.0
 
 locales\enUS.lua
 locales\deDE.lua
